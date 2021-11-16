@@ -1,0 +1,16 @@
+C:\Users\Gabriele Brito\Desktop\C#\SomaDoisValores\bin\Debug\net5.0\SomaDoisValores.exe
+C:\Users\Gabriele Brito\Desktop\C#\SomaDoisValores\bin\Debug\net5.0\SomaDoisValores.deps.json
+C:\Users\Gabriele Brito\Desktop\C#\SomaDoisValores\bin\Debug\net5.0\SomaDoisValores.runtimeconfig.json
+C:\Users\Gabriele Brito\Desktop\C#\SomaDoisValores\bin\Debug\net5.0\SomaDoisValores.runtimeconfig.dev.json
+C:\Users\Gabriele Brito\Desktop\C#\SomaDoisValores\bin\Debug\net5.0\SomaDoisValores.dll
+C:\Users\Gabriele Brito\Desktop\C#\SomaDoisValores\bin\Debug\net5.0\ref\SomaDoisValores.dll
+C:\Users\Gabriele Brito\Desktop\C#\SomaDoisValores\bin\Debug\net5.0\SomaDoisValores.pdb
+C:\Users\Gabriele Brito\Desktop\C#\SomaDoisValores\obj\Debug\net5.0\SomaDoisValores.csproj.AssemblyReference.cache
+C:\Users\Gabriele Brito\Desktop\C#\SomaDoisValores\obj\Debug\net5.0\SomaDoisValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriele Brito\Desktop\C#\SomaDoisValores\obj\Debug\net5.0\SomaDoisValores.AssemblyInfoInputs.cache
+C:\Users\Gabriele Brito\Desktop\C#\SomaDoisValores\obj\Debug\net5.0\SomaDoisValores.AssemblyInfo.cs
+C:\Users\Gabriele Brito\Desktop\C#\SomaDoisValores\obj\Debug\net5.0\SomaDoisValores.csproj.CoreCompileInputs.cache
+C:\Users\Gabriele Brito\Desktop\C#\SomaDoisValores\obj\Debug\net5.0\SomaDoisValores.dll
+C:\Users\Gabriele Brito\Desktop\C#\SomaDoisValores\obj\Debug\net5.0\ref\SomaDoisValores.dll
+C:\Users\Gabriele Brito\Desktop\C#\SomaDoisValores\obj\Debug\net5.0\SomaDoisValores.pdb
+C:\Users\Gabriele Brito\Desktop\C#\SomaDoisValores\obj\Debug\net5.0\SomaDoisValores.genruntimeconfig.cache

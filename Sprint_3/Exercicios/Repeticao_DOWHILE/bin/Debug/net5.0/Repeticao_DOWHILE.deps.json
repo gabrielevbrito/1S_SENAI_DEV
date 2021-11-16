@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Repeticao_DOWHILE/1.0.0": {
+        "runtime": {
+          "Repeticao_DOWHILE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Repeticao_DOWHILE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

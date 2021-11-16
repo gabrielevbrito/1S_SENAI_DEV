@@ -1,0 +1,16 @@
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_DOWHILE\bin\Debug\net5.0\Repeticao_DOWHILE.exe
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_DOWHILE\bin\Debug\net5.0\Repeticao_DOWHILE.deps.json
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_DOWHILE\bin\Debug\net5.0\Repeticao_DOWHILE.runtimeconfig.json
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_DOWHILE\bin\Debug\net5.0\Repeticao_DOWHILE.runtimeconfig.dev.json
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_DOWHILE\bin\Debug\net5.0\Repeticao_DOWHILE.dll
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_DOWHILE\bin\Debug\net5.0\ref\Repeticao_DOWHILE.dll
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_DOWHILE\bin\Debug\net5.0\Repeticao_DOWHILE.pdb
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_DOWHILE\obj\Debug\net5.0\Repeticao_DOWHILE.csproj.AssemblyReference.cache
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_DOWHILE\obj\Debug\net5.0\Repeticao_DOWHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_DOWHILE\obj\Debug\net5.0\Repeticao_DOWHILE.AssemblyInfoInputs.cache
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_DOWHILE\obj\Debug\net5.0\Repeticao_DOWHILE.AssemblyInfo.cs
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_DOWHILE\obj\Debug\net5.0\Repeticao_DOWHILE.csproj.CoreCompileInputs.cache
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_DOWHILE\obj\Debug\net5.0\Repeticao_DOWHILE.dll
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_DOWHILE\obj\Debug\net5.0\ref\Repeticao_DOWHILE.dll
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_DOWHILE\obj\Debug\net5.0\Repeticao_DOWHILE.pdb
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_DOWHILE\obj\Debug\net5.0\Repeticao_DOWHILE.genruntimeconfig.cache

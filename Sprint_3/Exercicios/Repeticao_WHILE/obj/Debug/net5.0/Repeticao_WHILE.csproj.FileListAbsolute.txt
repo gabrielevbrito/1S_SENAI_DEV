@@ -1,0 +1,16 @@
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_WHILE\bin\Debug\net5.0\Repeticao_WHILE.exe
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_WHILE\bin\Debug\net5.0\Repeticao_WHILE.deps.json
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_WHILE\bin\Debug\net5.0\Repeticao_WHILE.runtimeconfig.json
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_WHILE\bin\Debug\net5.0\Repeticao_WHILE.runtimeconfig.dev.json
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_WHILE\bin\Debug\net5.0\Repeticao_WHILE.dll
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_WHILE\bin\Debug\net5.0\ref\Repeticao_WHILE.dll
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_WHILE\bin\Debug\net5.0\Repeticao_WHILE.pdb
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_WHILE\obj\Debug\net5.0\Repeticao_WHILE.csproj.AssemblyReference.cache
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_WHILE\obj\Debug\net5.0\Repeticao_WHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_WHILE\obj\Debug\net5.0\Repeticao_WHILE.AssemblyInfoInputs.cache
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_WHILE\obj\Debug\net5.0\Repeticao_WHILE.AssemblyInfo.cs
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_WHILE\obj\Debug\net5.0\Repeticao_WHILE.csproj.CoreCompileInputs.cache
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_WHILE\obj\Debug\net5.0\Repeticao_WHILE.dll
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_WHILE\obj\Debug\net5.0\ref\Repeticao_WHILE.dll
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_WHILE\obj\Debug\net5.0\Repeticao_WHILE.pdb
+C:\Users\Gabriele Brito\Desktop\C#\Repeticao_WHILE\obj\Debug\net5.0\Repeticao_WHILE.genruntimeconfig.cache
